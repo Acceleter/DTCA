@@ -1,6 +1,9 @@
 <div align="center">
   <p><img src="assets/cover.png" alt="DTCA: Denoising Token Credit Assignment for Reinforcement Learning in Diffusion Language Models" width="100%"></p>
-  <p><a href="https://acceleter.github.io/DTCA/">Project Page</a> · <a href="docs/assets/resources/dtca-paper.pdf">Paper</a></p>
+  <p>
+    <a href="https://acceleter.github.io/DTCA/"><img src="https://img.shields.io/badge/-Project_Page-215B8F?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
+    <a href="docs/assets/resources/dtca-paper.pdf"><img src="https://img.shields.io/badge/-Paper-B31B1B?style=for-the-badge&amp;logo=readthedocs&amp;logoColor=white" alt="Paper"></a>
+  </p>
   <p>
     <a href="pyproject.toml"><img src="https://img.shields.io/badge/Python-3.10%2B-3776AB?logo=python&amp;logoColor=white" alt="Python 3.10+"></a>
     <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache--2.0-2F855A" alt="Apache-2.0 license"></a>
